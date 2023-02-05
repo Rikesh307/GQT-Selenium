@@ -1,4 +1,4 @@
-/*Script to nevigate the facbook application and type the email in the email field and password in the password field using name locator
+/*Script to nevigate the facbook application and type the email in the email field and password in the password field using "NAME" locator.
  * HTMLcode for email Web Element
  * -----------------------------------
  * <input type="text" class="inputtext _55r1 _6luy" name="email" id="email" data-testid="royal_email"

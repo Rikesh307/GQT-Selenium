@@ -1,4 +1,4 @@
-/*script to negivate facebook application and type the email in the email field using *id* locator  
+/*script to negivate facebook application and type the email in the email field using *ID* locator  
  * HTML code for email WebElement 
  * ----------------------------------------
  * <input type="text" class="inputtext _55r1 _6luy" name="email" id="email" data-testid="royal_email"

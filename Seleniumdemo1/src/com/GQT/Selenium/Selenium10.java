@@ -1,4 +1,4 @@
-/*script to negivate facebook application and type the password in the password field using *id* locator  
+/*script to negivate facebook application and type the password in the password field using "ID" locator  
  * HTML code for email WebElement 
  * ----------------------------------------
  * <input type="password" class="inputtext _55r1 _6luy _9npi" name="pass" id="pass" data-testid="royal_pass" 
